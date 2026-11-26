@@ -3,7 +3,8 @@
 <h3 align="center">I'm currently working on my MSc. at Instituto Superior Técnico (University of Lisbon) </h3>
 My principal interests include: firmware, hardware design, systems programming and computer architecture.
 
-- 📫 How to reach me: 
-**leonardo_carmo@usp.br** 
-**leonardo.carmo@tecnico.ulisboa.pt**
+- 📫 How to reach me:
+- **leonardo_carmo@usp.br**
+- **leonardo.carmo@tecnico.ulisboa.pt** 
+
 
